@@ -7,7 +7,7 @@ first bottle on the scale, 2 pills from the second bottle, and so on, up to
 If all pills weighted 1 gram, we would expect the scale to read
 
 $$
-  1 + 2 + 3 + \cdot + 19 + 20 = \frac{20\cdot 21}{2} = 210,
+  1 + 2 + 3 + \cdots + 19 + 20 = \frac{20\cdot 21}{2} = 210,
 $$
 
 however, since the $n$ pills from the $n$-th bottle are 0.1 grams heavier, it
